@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to GreyBig!"
 date:   2017-09-05 14:10:51 +0800
 categories: Jekyll
 tags: Jekyll
