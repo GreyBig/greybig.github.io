@@ -1,25 +1,12 @@
-# Idea files
-.idea/*
-
-# Mac files
-.DS_Store
-
-# Byte-compiled / optimized / DLL files
-*.manifest
-*.spec
-
-# Jekyll dev or build files
-_site/*
-_development_tool/*
-.sass-cache/*
-*.css.map
-*.scssc
-
-# Theme Gem files
-Gemfile.lock
-*.gem
-.gems
-jekyll-theme-type-on-strap.gemspec
-
-# Node js files
-**/node_modules/*
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
